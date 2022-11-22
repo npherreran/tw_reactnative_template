@@ -119,20 +119,20 @@ _Below is an example of how you can instruct your audience on installing and set
 
 3. Running your React Native application:
     ```sh
-    npx react-native start
+    npm start
     ```
 4. Open Android Studio
 
 5. Choose virtual device in Device Manage, or connect physical device on your computer
   
-4. If you use Android Studio to open the project 
+4. If you use Android Studio to open the project, in the terminal of Android Studio: 
      ```sh
     cd android
     ```
     
 5. Install the app inside virtual device
      ```sh
-    npx react-native run-android
+    npm run android
     ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
